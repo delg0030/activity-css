@@ -11,7 +11,19 @@ body {
 H1 {
     font-family: Georgia, "Times New Roman", serif;
     font-size: 3rem; /* 1 rem = 16px */;
-    font-weight: bold
+    font-weight: bold;
+    color: #F99;
+    background-color: #000;
+    border-top: 2px solid #F99;
+    border-bottom: 2px solid #f99
+    
+    
+    
+}
+
+H2 {
+    color: #f99;
+    
 }
 
 p,

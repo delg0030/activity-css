@@ -1,0 +1,39 @@
+/* CSS Document */
+
+html {
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+body {
+    background-color: #CCC;
+}
+
+H1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 3rem; /* 1 rem = 16px */;
+    font-weight: bold
+}
+
+p,
+li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+H1 + p {
+    font-size: 1.5rem;
+    line-height: 1.75rem
+}
+
+hr {
+    border: solid 4px #F99;
+}
+
+ul,
+ol {
+    background-color: #000;
+}
+
+li {
+ color: #F99;
+}
